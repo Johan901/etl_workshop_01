@@ -2,3 +2,6 @@ jupyter
 notebook
 pandas
 psycopg2
+matplotlib
+sqlalchemy
+seaborn
