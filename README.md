@@ -1,17 +1,23 @@
 # WorkShop-01-ETL 📊
 
 ## Overview
-This is a test project for my ETL class. The project demonstrates basic ETL processes and techniques. More updates and features will be added in the future. 🚀
+The WorkShop-01-ETL project is a practical implementation designed to demonstrate fundamental ETL (Extract, Transform, Load) concepts in a data-driven workflow. This project simulates a real-world scenario where data is extracted from a source (CSV files), transformed for quality and consistency, and then loaded into a relational database (PostgreSQL) for analysis and visualization.
 
 ## Features 🌟
-- Basic ETL functionality 🛠️
-- Sample data processing 📈
-- User authentication 🔒
+- Loading data from a CSV file into a PostgreSQL database. 📂 ➡️ 🛢️
+- Exploratory Data Analysis (EDA) using Python and Jupyter Notebook. 📊
+- Data visualization using charts to identify patterns and trends. 📈
+- Secure storage of database credentials using configuration files. 🔒
+- Implementation and documentation on GitHub with sensitive data protection. 🌐
 
 ## Technologies Used 🖥️
 - Python 🐍
-- Jupyter 📓
-- PostgreSQL 🌐
+- Jupyter Notebook 📓
+- PostgreSQL 🛢️
+- Pandas 🐼
+- Matplotlib 📊
+- SQLAlchemy ⚙️
+- dotenv (for managing environment variables) 🌐
 
 ## Setup 🛠️
 1. **Clone the repository:**
